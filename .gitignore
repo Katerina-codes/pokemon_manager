@@ -11,3 +11,4 @@
 /vendor/bundle
 /lib/bundler/man/
 Gemfile.lock
+node_modules
